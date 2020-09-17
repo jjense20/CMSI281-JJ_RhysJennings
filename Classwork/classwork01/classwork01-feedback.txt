@@ -1,0 +1,22 @@
+
+
+Nice job on this!
+
+Consider spacing your code out vertically a little bit so that it is easier
+for the reader to see groups and blocks.  For example:
+
+import java.util.Scanner;
+
+public class SayHello {
+
+  public static void main (String[] args){
+    System.out.println( "Hello world!" );
+
+    System.out.println( "What is your name?" );
+    Scanner input = new Scanner( System.in );
+    String userInput = input.nextLine();
+
+    System.out.println( "Hello " + userInput );
+
+  }
+}
