@@ -1,0 +1,87 @@
+
+Homework03 Evaluation
+======================
+You MUST do problem 1, the "odd-even sort"
+
+You MUST do EITHER problem 2, Huffman, OR problem 3, Simon.
+Whichever one you choose is your option, but you must indicate
+which one you choose.  If you want to do both of them, you will
+be given extra credit for whatever points you get correct on
+the second problem.  For example, if you choose to do Simon and
+it is completely correct, and you do Huffman for extra credit
+and get 5 out of 7 correct, you will get 136% for the assignment.
+The extra points will be applied at the end of the semester to
+improve your overall score for the course.
+
+Assuming odd-even sort is correct, of course....
+=============================
+
+
+Nice work on this assignment!
+Here are a couple of observations and comments:
+
+
+scores:
+=============================
+OddEvenSorter.java
+   oddEvenSort implemented                   [1 pt.]
+   compiles                                  [1 pt.]
+   main() to test sorting                    [1 pt.]
+   works as advertised                       [1 pt.]
+
+SimonGame.java
+   randomized array                          [1 pt.]
+   display/erase sequences                   [1 pt.]
+   check user's guess against array          [1 pt.]
+   increment letter count each iteration     [0.5 pt.]
+   play again message on incorrect entry     [0 pt.]
+   compiles                                  [1 pt.]
+   works as advertised                       [1 pt.]
+
+HuffmanCoding.java
+   count character occurrences               [1 pt.]
+   use some sort of queue to build tree      [1 pt.]
+   tree constructed correctly                [1 pt.]
+   message encoded correctly                 [1 pt.]
+   message decoded correctly                 [1 pt.]
+   compiles                                  [1 pt.]
+   works as advertised                       [1 pt.]
+
+Coding style                                 [1 pt.]
+Tests written to test all classes            [1 pt.]
+Headers in all files                         [1 pt.]
+
+Total credit is 14 for Sorter and either Simon or Huffman
+   extra credit is 7 points for other of Simon or Huffman
+-------------------------
+ Grand total is 21 points for all three
+
+You earned:
+-----------
+
+you got 19.5 out of 14 which is 139.29% which is an A-plus
+
+
+======================================================================
+EXCELLENT JOB on this assignment!
+
+The sorting program works great.
+
+Your Simon game works very well!  "Need to work on your memory there...
+               Come back when you're ready for more action!"
+
+LOLZ!!  ....and the Jeopardy theme song....  HAHAHAHAHA!!!!
+
+The two things to consider with Simon are: 1) you didn't ask if I want to
+play again, which was a requirement, and you don't erase the user entry each
+time, making it easier to cheat.  Oh, and it's supposed to keep the same
+letter sequence each time and just add one letter, instead of generating an
+entirely new sequence with each trial.
+
+Hmmm... OK, that's three things....
+
+Huffman works PERFECTLY!!  I know how hard you guys worked on that, and it
+paid off ~~ GREAT work on a very difficult problem.
+
+All in all, a worthy effort!  Keep up the good work!!
+
