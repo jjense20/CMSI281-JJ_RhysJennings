@@ -1,0 +1,72 @@
+
+Homework04 Evaluation
+======================
+
+Nice job on this assignment...
+
+Your code looks great and thanks for doing file headers!
+
+
+scores:
+=============================
+Tree Traverser
+   inOrderTraverser method implemented       [1 pt.]
+   2 test sets with at least minimal nodes   [2 pt.]
+   produces proper sequences                 [2 pt.]
+
+Priority Queue
+   Queue creation works correctly            [1 pt.]
+   insertion works correctly                 [1 pt.]
+   isFull() works correctly                  [1 pt.]
+   isEmpty() works correctly                 [1 pt.]
+   removal() works correctly                 [1 pt.]
+   heap representation works correctly       [1 pt.]
+
+Linear Probing String Hasher
+   menu works [gimme, has to work if there]  [1 pt.]
+   shows contents                            [1 pt.]
+   hash table created correctly              [1 pt.]
+   insertion works correctly                 [1 pt.]
+   linear probing works correctly            [1 pt.]
+   deletion works correctly                  [1 pt.]
+   finding works correctly                   [1 pt.]
+
+Digit Folding Hasher
+   menu works [gimme, has to work if there]  [1 pt.]
+   shows contents                            [1 pt.]
+   insertion works correctly                 [1 pt.]
+   linear probing works correctly            [1 pt.]
+   deletion works correctly                  [1 pt.]
+   finding works correctly                   [1 pt.]
+
+Coding style                                 [1 pt.]
+Tests written to test all classes            [1 pt.]
+Headers in all files                         [4 pt.]
+
+Total credit is 30 points
+-------------------------
+
+you got 30 out of 30 which is 100% which is an A-plus
+
+Notes:
+======
+Nice work on this assignment, as usual!
+
+Just a couple of things from a software/user perspective:  It is ALWAYS good
+to let the user know what is happeneing.  Your PriorityQApp, for example,
+shows the correct output, but doesn't tell the user what she is looking at,
+so without reading the code, there is no real idea of what this does.  Just
+as a note, try to output meaningful messages to the user so that she will
+be able to understand just what you are doing.
+
+Tree Traverser is right, and so it PriorityQ.
+
+Your hash table code works well for linear probing, but the deletion and the
+find options seem to go into an infinite loop.  However, you do get values
+into the table and they show when doing a "show".  Somehow the "exit" option
+got removed?  I have to kill the application with a "control+C"....
+
+Digit Folding works great, although I miss the menu so I can put my own items
+into the table...
+
+Nice job, and a great finish to the semester!
